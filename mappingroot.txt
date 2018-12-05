@@ -1,0 +1,8 @@
+ns.com A 5.5.6.7 4545
+.com A NS ns.com 7895
+
+ns.org A 3.2.6.7 8756
+.org A NS ns.org 7895
+
+ns.il A 3.2.6.7 8756
+.org A NS ns.org 7895

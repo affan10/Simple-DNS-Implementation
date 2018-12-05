@@ -1,0 +1,4 @@
+ns.bob.com A 5.4.6.5
+bob.com NS ns.bob.com
+ns.hami.com A 5.4.4.4
+hami.com NS ns.hami.com
